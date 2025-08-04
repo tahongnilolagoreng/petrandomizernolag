@@ -1,4 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tahongnilolagoreng/loadingscreeen/refs/heads/main/autoloadingv2.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tahongnilolagoreng/petmutation/refs/heads/main/petmutation.lua"))()
-‎loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/nIiHZONMajOuCtSg/raw", true))()
-
+loadstring(game:HttpGet("https://pastefy.app/oj7RcN0j/raw"))()
